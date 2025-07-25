@@ -1,8 +1,8 @@
-# Sample Size Analysis for Special Education IEP Compliance Auditing
+# Sample Size Tables for Known Special Education Population IEP Compliance Auditing
 
 ## Introduction
 
-This Python script generates and compares sample size tables for auditing compliance of special education Individualized Education Programs (IEPs). The program helps identify and adopt appropriate sample size tables for selecting IEP folders for review based on adjustable confidence levels and margins of error, ensuring statistically valid audits while optimizing resource allocation.
+This Python script generates and compares sample size tables based on a known special education population for auditing compliance of special education Individualized Education Programs (IEPs). The program helps identify and adopt appropriate sample size tables for selecting IEP folders for review based on adjustable confidence levels and margins of error, ensuring statistically valid audits while optimizing resource allocation.
 
 > [!NOTE]
 > The script generates:
