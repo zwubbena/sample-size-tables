@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Python script generates and compares sample size tables for auditing compliance of special education Individualized Education Programs (IEPs). The program helps identify and adopt appropriate sample size tables based on adjustable confidence levels and margins of error, ensuring statistically valid audits while optimizing resource allocation.
+This Python script generates and compares sample size tables for auditing compliance of special education Individualized Education Programs (IEPs). The program helps identify and adopt appropriate sample size tables for selecting IEP folders for review based on adjustable confidence levels and margins of error, ensuring statistically valid audits while optimizing resource allocation.
 
 > [!NOTE]
 > The script generates:
