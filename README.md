@@ -26,31 +26,31 @@ To identify and adopt a sample size table for auditing compliance of special edu
 
 ## Business Rules
 
-### 1. IEP Audit Requirements
-1.1. Sample sizes must be statistically valid for compliance determinations
-1.2. Audits must be feasible within available resources
-1.3. Results must be defensible for federal and state reporting
+- **BR-1.** IEP Audit Requirements:
+    - **BR-1.1.** Sample sizes must be statistically valid for compliance determinations
+    - **BR-1.2.** Audits must be feasible within available resources
+    - **BR-1.3.** Results must be defensible for federal and state reporting
 
-### 2. Statistical Parameters
-2.1. Confidence level fixed at 80% (Z=1.28) for all scenarios
-2.2. Margin of error varies by scenario (13%, 15%, 16%)
-2.3. Population proportion set at 0.50 for conservative estimates
+- **BR-2.** Statistical Parameters:
+    - **BR-2.1.** Confidence level fixed at 80% (Z=1.28) for all scenarios
+    - **BR-2.2.** Margin of error varies by scenario (13%, 15%, 16%)
+    - **BR-2.3.** Population proportion set at 0.50 for conservative estimates
 
-### 3. Sample Size Constraints
-3.1. Sample size cannot exceed population size
-3.2. All sample sizes rounded up to ensure adequate coverage
-3.3. Minimum sample size is 1 (for populations of 1)
+- **BR-3.** Sample Size Constraints:
+    - **BR-3.1.** Sample size cannot exceed population size
+    - **BR-3.2.** All sample sizes rounded up to ensure adequate coverage
+    - **BR-3.3.** Minimum sample size is 1 (for populations of 1)
 
-### 4. Scenario Comparison
-4.1. Multiple scenarios analyzed simultaneously
-4.2. Each scenario visually distinguished by line style and color
-4.3. Legend displays actual calculated parameters
+- **BR-4.** Scenario Comparison:
+    - **BR-4.1.** Multiple scenarios analyzed simultaneously
+    - **BR-4.2.** Each scenario visually distinguished by line style and color
+    - **BR-4.3.** Legend displays actual calculated parameters
 
-### 5. Output Requirements
-5.1. Excel workbook must contain all scenarios for comparison
-5.2. Each scenario gets dedicated worksheet with grouped ranges
-5.3. Visualizations embedded for immediate reference
-5.4. Files automatically downloaded upon completion
+- **BR-5.** Output Requirements:
+    - **BR-5.1.** Excel workbook must contain all scenarios for comparison
+    - **BR-5.2.** Each scenario gets dedicated worksheet with grouped ranges
+    - **BR-5.3**. Visualizations embedded for immediate reference
+    - **BR-5.4.** Files automatically downloaded upon completion
 
 ## Calculations
 
