@@ -1,4 +1,4 @@
-# Sample Size Tables for Known Special Education Population IEP Compliance Auditing
+# Sample Size Tables for Known Special Education Population
 
 ## Introduction
 
